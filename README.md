@@ -1,7 +1,5 @@
 # GS Action Management
 
-by [richjenks.com](http://richjenks.com)
-
 Allows Get Simple CMS developers to view registered Actions or remove them from the $plugins global before they are executed.
 
 Includes two plugins:

@@ -4,8 +4,6 @@
 Plugin Name: Show Actions
 Description: Displays all currently registered Actions at the bottom of each page
 Version: 1.0
-Author: Rich Jenks
-Author URI: http://richjenks.com/
 */
 
 // Get correct id for plugin
@@ -16,8 +14,6 @@ register_plugin(
 	$thisfile, //Plugin id
 	'Show Actions', //Plugin name
 	'1.0', //Plugin version
-	'Rich Jenks', //Plugin author
-	'http://richjenks.com/', //author website
 	'Displays all currently registered Actions at the bottom of each page', //Plugin description
 	FALSE, //page type - on which admin tab to display
 	FALSE //main function (administration)
